@@ -1,0 +1,5 @@
+# 如何使用REST Client
+# 先建立一個 xx.http 檔案
+# get 測試網址
+# 按 Send Request
+get http://127.0.0.1:8000/books/222
